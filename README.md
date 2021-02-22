@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+With a Bachelor degree in Computer Science & Engineering and more than 5 years of IT/Software Industry experience, I have recently completed a course (Certificate IV in Information Technology) from TAFE and currently doing a program in Web Development. My natural analytical and problem solving skills and my interest in building websites have led me to look for a career change to front end design and development. I am a self-motivated, quick learner, strong work ethics and committed to pursuing a long term career by utilizing my expertise for the benefit of the organisation.
 <!--
 **DeepaNethesh/DeepaNethesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
