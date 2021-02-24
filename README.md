@@ -15,3 +15,8 @@ Microsoft Office        :   Microsoft Word, Excel, PowerPoint, Teams
 
 <h3>Websites</h3>
 <a href='https://www.linkedin.com/in/deepa-murali-416848177/'>LinkedIn</a>
+
+<h3>Main Projects</h3>
+ 1. <a href = 'https://github.com/DeepaNethesh/weather-app'>Weather App</a>
+ 2. <a href = 'https://github.com/DeepaNethesh/adhoc-project'>Adhoc Project</a>
+ 3. <a href ='https://github.com/DeepaNethesh/dasmoto_project'>Dasmoto Project</a>
