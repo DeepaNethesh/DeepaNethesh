@@ -13,9 +13,11 @@
 **Microsoft Office**        :   Microsoft Word, Excel, PowerPoint, Teams
 
 <h3>Education</h3>
+
 **Btech in Computer Science & Engineering**  2005-2009<br>
 **Certificate IV in  Information Technology, TAFE NSW** Feb 2020- Jul 2020<br>
 **Web development Intensive program(12 week)**  Nov 2020 - Mar -2021<br>
+
 <h3>Websites</h3>
 <a href='https://www.linkedin.com/in/deepa-murali-416848177/'>LinkedIn</a>
 
