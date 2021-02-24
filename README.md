@@ -4,7 +4,7 @@
 
 <h3 >Technical Skills</h3>
 <p>
-Database                :  MS SQL Server, MYSQL, Oracle <br>
+ <span style='font-weight: bold'>Database </span>               :  MS SQL Server, MYSQL, Oracle <br>
 Database tools          :  MSSQL Server management studio 2017, SAP Hana studio, MS Access<br>
 Data Visualization	    :  Tableau, SAP Lumira, Power BI<br>
 Programming Language    :   SQL, Python<br>
