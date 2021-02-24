@@ -12,7 +12,10 @@
 **SAP**	                    :  SAP Native HANA, SAP BODS, SAP ECC, SAP CRM WEBUI<br>
 **Microsoft Office**        :   Microsoft Word, Excel, PowerPoint, Teams
 
-
+<h3>Education</h3>
+Btech in Computer Science & Engineering - 2005-2009
+Certificate IV in  Information Technology, TAFE NSW - Feb 2020- Jul 2020
+Web development Intensive program(12 week) - Nov 2020 - Mar -2021
 <h3>Websites</h3>
 <a href='https://www.linkedin.com/in/deepa-murali-416848177/'>LinkedIn</a>
 
