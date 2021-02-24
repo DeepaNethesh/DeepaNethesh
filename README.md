@@ -12,6 +12,18 @@
 **SAP**	                    :  SAP Native HANA, SAP BODS, SAP ECC, SAP CRM WEBUI<br>
 **Microsoft Office**        :   Microsoft Word, Excel, PowerPoint, Teams
 
+<h3 >Transferable Skills</h3>
+
+•	Time Management	<br>
+•	Adaptability<br>
+•	Teamwork	<br>
+•	Flexibility<br>
+•	Priority Setting	<br>
+•	Meeting deadlines<br>
+•	Openness to Feedback<br>
+•	Growth mindset<br>
+
+
 <h3>Education</h3>
 
 **Btech in Computer Science & Engineering** ---- 2005-2009<br>
