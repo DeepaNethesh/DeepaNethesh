@@ -34,7 +34,9 @@
 <a href='https://www.linkedin.com/in/deepa-murali-416848177/'>LinkedIn</a>
 
 <h3>Main Projects</h3>
- 1. <a href = 'https://github.com/DeepaNethesh/Covid_status'>Covid_Status<a><br>
- 2. <a href = 'https://github.com/DeepaNethesh/weather-app'>Weather App</a><br>
- 3. <a href = 'https://github.com/DeepaNethesh/adhoc-project'>Adhoc Project</a><br>
- 4. <a href ='https://github.com/DeepaNethesh/dasmoto_project'>Dasmoto Project</a>
+ 1. <a href = 'https://github.com/DeepaNethesh/TaskManager'>Covid_Status<a><br>
+ 2. <a href = 'https://github.com/DeepaNethesh/dictionary'>Dictionary</a><br>
+ 3. <a href = 'https://github.com/DeepaNethesh/Covid_status'>Covid_Status<a><br>
+ 4. <a href = 'https://github.com/DeepaNethesh/weather-app'>Weather App</a><br>
+ 
+
